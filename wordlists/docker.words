@@ -1,0 +1,43 @@
+# This file is generated automatically by `scripts/update-docker`. Please do not edit it directly.
+
+# Docker-related vocabulary
+Compose
+Docker
+Docker Desktop for Mac
+Docker Desktop for Windows
+Docker Hub
+Dockerfile
+ENTRYPOINT
+SSH
+Union file system
+amd64
+arm64
+base image
+btrfs
+build
+cgroups
+cluster
+container
+copy-on-write
+filesystem
+image
+layer
+libcontainer
+libnetwork
+namespace
+node
+overlay network driver
+overlay storage driver
+parent image
+persistent storage
+registry
+repository
+service
+service discovery
+swarm
+swarm mode
+tag
+task
+virtual machine
+volume
+x86_64

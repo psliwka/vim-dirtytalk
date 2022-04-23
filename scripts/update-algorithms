@@ -1,0 +1,9 @@
+#!/bin/bash
+source "$(dirname $0)/common.sh"
+
+emit_header "Python-related vocabulary"
+curl -s https://en.wikipedia.org/wiki/List_of_terms_relating_to_algorithms_and_data_structures \
+  | pup -p '.mw-parser-output li > a[title]:first-of-type text{}' \
+  | sed -e 's/(.*)$//' \
+  | tr ' ' '\n' \
+  | emit_words

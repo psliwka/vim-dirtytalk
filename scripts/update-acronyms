@@ -1,0 +1,10 @@
+#!/bin/bash
+source "$(dirname $0)/common.sh"
+
+emit_header "Common IT acronyms and abbreviations"
+curl -s "https://en.wikipedia.org/wiki/List_of_computing_and_IT_abbreviations" \
+  | egrep -o '<li><a.+title.+>[a-zA-Z0-9\.]+<' \
+  | grep -v '(page does not exist)' \
+  | egrep -o '>[a-zA-Z0-9\.]+<' \
+  | tr -d '<>' \
+  | emit_words

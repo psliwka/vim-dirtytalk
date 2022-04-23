@@ -1,0 +1,11 @@
+#!/bin/bash
+source "$(dirname $0)/common.sh"
+
+emit_header "Prometheus-related vocabulary"
+curl -s https://raw.githubusercontent.com/prometheus/docs/main/content/docs/introduction/glossary.md \
+  | tail -n +3 \
+  | sed -e 's/\]\([^\)]*\)//g' \
+  | tr '[:punct:]' ' ' \
+  | tr '[:blank:]' '\n' \
+  | hunspell -d en_US -l \
+  | emit_words

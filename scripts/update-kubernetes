@@ -1,0 +1,7 @@
+#!/bin/bash
+source "$(dirname $0)/common.sh"
+
+emit_header "Kinds of Kubernetes objects"
+curl -s https://raw.githubusercontent.com/kubernetes/kubernetes/master/api/openapi-spec/swagger.json \
+  | jq -r '.. | ."x-kubernetes-group-version-kind"? | .kind?' \
+  | emit_words

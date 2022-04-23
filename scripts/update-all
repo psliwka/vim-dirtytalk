@@ -1,0 +1,9 @@
+#!/bin/bash
+source "$(dirname $0)/common.sh"
+
+shopt -s extglob
+
+for generator in $(dirname $0)/update-!(all)
+do
+  $generator
+done

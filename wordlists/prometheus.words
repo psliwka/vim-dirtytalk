@@ -1,0 +1,10 @@
+# This file is generated automatically by `scripts/update-prometheus`. Please do not edit it directly.
+
+# Prometheus-related vocabulary
+Alertmanager
+Grafana
+Pagerduty
+PromQL
+Promdash
+Pushgateway
+float64

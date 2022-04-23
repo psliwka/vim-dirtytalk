@@ -1,0 +1,11 @@
+#!/bin/bash
+source "$(dirname $0)/common.sh"
+
+emit_header "Common file extensions"
+{
+  curl -s https://raw.githubusercontent.com/sheerun/vim-polyglot/master/autoload/polyglot/init.vim \
+    | egrep -o '\.[a-z]+'
+  curl -s https://raw.githubusercontent.com/dyne/file-extension-list/master/pub/extensions.json \
+    | jq -r keys[] \
+    | sed -e 's/^/./'
+} | emit_words

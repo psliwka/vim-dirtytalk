@@ -1,0 +1,11 @@
+#!/bin/bash
+source "$(dirname $0)/common.sh"
+
+emit_header "Special codepoints used by Nerd Fonts"
+curl -s https://www.nerdfonts.com/cheat-sheet \
+  | pup '.codepoint text{}' \
+  | while read codepoint; do
+      echo "print('\u$codepoint/?')"
+    done \
+  | python3 - \
+  | emit_words

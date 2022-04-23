@@ -1,0 +1,20 @@
+#!/bin/bash
+source "$(dirname $0)/common.sh"
+
+emit_header "UNIX signal names"
+kill -l \
+  | egrep -o '[A-Z]+[0-9]*' \
+  | emit_words
+
+emit_header "Common UNIX commands"
+{
+  curl -s "https://git.savannah.gnu.org/cgit/coreutils.git/plain/README" \
+  | awk '/The programs that can be built with this package are:/,/See the file NEWS for a list of major changes in the current release./' \
+  | sed -e '1d;$d' \
+  | tr ' ' '\n'
+  curl -s "https://pubs.opengroup.org/onlinepubs/9699919799.2018edition/idx/utilities.html" \
+  | grep 'href' \
+  | cut -d '>' -f3 \
+  | cut -d '<' -f1
+  busybox --list
+} | emit_words

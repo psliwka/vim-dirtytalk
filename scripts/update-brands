@@ -1,0 +1,9 @@
+#!/bin/bash
+source "$(dirname $0)/common.sh"
+
+emit_header "Popular (mostly IT-related) brands"
+curl -s "https://raw.githubusercontent.com/simple-icons/simple-icons/master/_data/simple-icons.json" \
+  | jq -r '.icons | map(.title)[]' \
+  | tr ' ' '\n' \
+  | grep '[a-zA-Z]' \
+  | emit_words

@@ -1,0 +1,8 @@
+#!/bin/bash
+source "$(dirname $0)/common.sh"
+
+emit_header "Docker-related vocabulary"
+curl -s https://raw.githubusercontent.com/docker/docker.github.io/master/_data/glossary.yaml \
+  | python3 -c 'import sys, yaml, json; json.dump(yaml.load(sys.stdin), sys.stdout)' \
+  | jq -r keys[] \
+  | emit_words

@@ -1,0 +1,13 @@
+#!/bin/bash
+source "$(dirname $0)/common.sh"
+
+emit_header "HTML tags"
+curl -s "https://developer.mozilla.org/en-US/docs/Web/HTML/Element" \
+  | pup 'code text{}' \
+  | recode html..utf8 \
+  | egrep '<.+>' \
+  | grep -v ' ' \
+  | grep -v '/' \
+  | grep -vP "[\x80-\xFF]" \
+  | tr -d '<>' \
+  | emit_words
