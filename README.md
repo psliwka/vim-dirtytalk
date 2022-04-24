@@ -48,6 +48,12 @@ Install the plugin using your favorite plugin manager. Ensure that the
 Plug 'psliwka/vim-dirtytalk', { 'do': ':DirtytalkUpdate' }
 ```
 
+Example for [packer.nvim]:
+
+```lua
+use {'psliwka/vim-dirtytalk', run = ':DirtytalkUpdate'}
+```
+
 Then include your freshly-compiled `programming` dictionary in your `spelllang`
 setting. Example:
 
@@ -113,3 +119,4 @@ License
 [MIT](LICENSE)
 
 [vim-plug]: https://github.com/junegunn/vim-plug
+[packer.nvim]: https://github.com/wbthomason/packer.nvim
