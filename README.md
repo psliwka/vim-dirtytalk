@@ -61,6 +61,13 @@ setting. Example:
 set spelllang=en,programming
 ```
 
+Usage
+-----
+
+Once installed, the plugin integrates seamlessly with Vim's native spell
+checking (see `:h spell` for details on how to use it). Make sure you've
+enabled spell checking with `:set spell`!
+
 Customization
 -------------
 
