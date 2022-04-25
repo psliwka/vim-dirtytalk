@@ -18,7 +18,7 @@ big list at installation time:
 | List name | Example words |
 |---|---|
 | `acronyms` | API, JSON, PaaS |
-| `algotihms` | quicksort, subtree, memoization |
+| `algorithms` | quicksort, subtree, memoization |
 | `brands` | GitHub, AdSense, DynamoDB |
 | `comments` | TODO, FIXME, XXX |
 | `cpp` | const, enum, lvalue |
