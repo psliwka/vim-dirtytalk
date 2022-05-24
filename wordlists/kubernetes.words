@@ -41,7 +41,6 @@ PodDisruptionBudget
 PodExecOptions
 PodPortForwardOptions
 PodProxyOptions
-PodSecurityPolicy
 PodTemplate
 PriorityClass
 PriorityLevelConfiguration
