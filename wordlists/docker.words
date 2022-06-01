@@ -3,10 +3,20 @@
 # Docker-related vocabulary
 Compose
 Docker
+Docker Business
+Docker Desktop
 Docker Desktop for Linux
 Docker Desktop for Mac
 Docker Desktop for Windows
 Docker Hub
+Docker ID
+Docker Official Images
+Docker Personal
+Docker Pro
+Docker Team
+Docker Trusted Content Program
+Docker Verified Publisher Images
+Docker subscription
 Dockerfile
 ENTRYPOINT
 SSH
@@ -19,26 +29,35 @@ build
 cgroups
 cluster
 container
+container image
 copy-on-write
 filesystem
 image
+invitee
 layer
 libcontainer
 libnetwork
+member
 namespace
 node
+organization
+organization name
 overlay network driver
 overlay storage driver
+owners team
 parent image
 persistent storage
 registry
 repository
+seats
 service
+service account
 service discovery
 swarm
 swarm mode
 tag
 task
+team
 virtual machine
 volume
 x86_64
