@@ -23,6 +23,7 @@ AMG
 AMP
 ANA
 AOL
+API
 AR
 ARAL
 ARK
@@ -260,6 +261,7 @@ Boost
 Boot
 Boots
 Bootstrap
+BorgBackup
 Bosch
 Bose
 Bounty
@@ -378,6 +380,7 @@ Cloud
 CloudBees
 CloudCannon
 CloudStack
+CloudWatch
 Cloudera
 Cloudflare
 Cloudsmith
@@ -672,6 +675,7 @@ Falcon
 FamPay
 Fandango
 Fandom
+Fargate
 FastAPI
 Fastify
 Fastlane
@@ -765,6 +769,7 @@ Gamers
 Games
 Gaming
 Garmin
+Gateway
 Gatling
 Gatsby
 GeeksforGeeks
@@ -1039,6 +1044,7 @@ KeyCDN
 Keybase
 Khan
 Khronos
+KiCad
 Kia
 Kibana
 Kickstarter
@@ -1064,6 +1070,7 @@ Kong
 Kongregate
 Konva
 Kotlin
+Koyeb
 Kred
 Krita
 Kuaishou
@@ -1154,6 +1161,7 @@ LoopBack
 Lospec
 Lua
 Lubuntu
+Ludwig
 Lufthansa
 Lumberyard
 Lumen
@@ -1518,6 +1526,7 @@ PlayCanvas
 PlayStation
 Player
 Player.me
+Playwright
 Pleroma
 Plesk
 Plex
@@ -1630,6 +1639,7 @@ Qwiklabs
 Qzone
 R
 R3
+RDS
 REWE
 ROS
 RSS
@@ -1741,6 +1751,7 @@ SMRT
 SPDX
 SQL
 SQLite
+SQS
 SSRN
 STARZ
 STMicroelectronics
@@ -2107,6 +2118,7 @@ Unilever
 United
 Unity
 Universal
+UnoCSS
 Unraid
 Unreal
 Unsplash
