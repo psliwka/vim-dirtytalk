@@ -76,6 +76,7 @@ AirAsia
 AirPlay
 Airbnb
 Airbus
+Airbyte
 Aircall
 Airflow
 Airlines
@@ -198,6 +199,7 @@ BMW
 BT
 Babel
 Backbone.js
+Backendless
 Badges
 Badgr
 Badoo
@@ -288,6 +290,7 @@ Bukalapak
 Bulma
 Bundle
 Burger
+Burton
 Business
 Buy
 BuzzFeed
@@ -613,6 +616,7 @@ Electric
 Electron
 Electronics
 Element
+Elementor
 Eleventy
 Elixir
 Ello
@@ -660,6 +664,7 @@ Extensions
 EyeEm
 F-Droid
 F-Secure
+F1
 FACEIT
 FARFETCH
 FFmpeg
@@ -726,6 +731,7 @@ FontBase
 Fonts
 Ford
 Forestry
+Form
 Formstack
 Fortinet
 Fortran
@@ -885,6 +891,7 @@ HomeAdvisor
 Homebrew
 Homebridge
 Honda
+Hook
 Hootsuite
 Hoppscotch
 Horizon
@@ -1368,6 +1375,7 @@ Nucleo
 Nuke
 NumPy
 Numba
+Nunjucks
 Nutanix
 Nuxt.js
 Nx
@@ -1424,6 +1432,7 @@ OpenWrt
 OpenZFS
 OpenZeppelin
 Openlayers
+Openverse
 Opera
 OpsLevel
 Opsgenie
@@ -2006,6 +2015,7 @@ TeamCity
 TeamSpeak
 TeamViewer
 Teams
+Technologies
 Technology
 Teespring
 Tekton
@@ -2118,6 +2128,7 @@ Unilever
 United
 Unity
 Universal
+Unlicense
 UnoCSS
 Unraid
 Unreal
@@ -2301,6 +2312,7 @@ Zapier
 Zara
 Zazzle
 Zcash
+Zebra
 Zelle
 Zend
 Zendesk
@@ -2352,6 +2364,7 @@ eBay
 easyJet
 edX
 egghead
+electron-builder
 elementary
 esbuild
 etcd
@@ -2432,6 +2445,7 @@ ts-node
 uBlock
 vBulletin
 vFairs
+wasmCloud
 webcomponents.org
 webhint
 write.as
