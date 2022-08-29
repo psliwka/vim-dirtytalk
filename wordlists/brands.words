@@ -1,6 +1,7 @@
 # This file is generated automatically by `scripts/update-brands`. Please do not edit it directly.
 
 # Popular (mostly IT-related) brands
+.ENV
 .NET
 ,e,
 1001Tracklists
@@ -189,6 +190,7 @@ Automobili
 Autoprefixer
 Avast
 Awesome
+Axios
 Azure
 B&R
 BBC
@@ -485,6 +487,7 @@ CurseForge
 Cycling
 Cypress
 Cytoscape.js
+D
 D-EDGE
 D-Wave
 D3.js
@@ -580,6 +583,7 @@ Drooble
 Dropbox
 Druid
 Drupal
+Ducati
 DuckDB
 DuckDuckGo
 Dungeon
@@ -759,6 +763,7 @@ FreeBSD
 FreeNAS
 Freelancer
 Frontend
+Fuga
 Fujifilm
 Fujitsu
 Functions
@@ -868,6 +873,7 @@ Hangouts
 Hansen
 HappyCow
 Harbor
+HarmonyOS
 Hashnode
 Haskell
 Hasura
@@ -1123,6 +1129,7 @@ Leaflet
 League
 Leanpub
 LeetCode
+Legacy
 Lemmy
 Lenovo
 Lens
@@ -2010,6 +2017,7 @@ TUI
 TV
 TYPO3
 Table
+TableCheck
 Tableau
 Taco
 Tag
@@ -2221,6 +2229,7 @@ WEMO
 WP
 WWE
 Wabbit
+Wacom
 Wagtail
 WakaTime
 Wallabag
