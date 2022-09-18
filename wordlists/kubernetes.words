@@ -54,6 +54,7 @@ RuntimeClass
 Scale
 Secret
 SelfSubjectAccessReview
+SelfSubjectReview
 SelfSubjectRulesReview
 Service
 ServiceAccount
