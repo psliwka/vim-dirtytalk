@@ -87,6 +87,7 @@
 .bat
 .bats
 .bazel
+.bb
 .bbl
 .bc
 .bdf
@@ -203,6 +204,7 @@
 .ct
 .ctl
 .ctp
+.cts
 .cu
 .cue
 .cuh
@@ -360,7 +362,6 @@
 .fxml
 .g
 .gawk
-.gd
 .gdmo
 .ged
 .gemspec
@@ -588,6 +589,7 @@
 .list
 .litcoffee
 .lite
+.livemd
 .ll
 .lmi
 .lock
@@ -715,6 +717,7 @@
 .msql
 .mst
 .mt
+.mts
 .mu
 .mush
 .mustache
@@ -886,6 +889,7 @@
 .q
 .qbs
 .qc
+.qhelp
 .ql
 .qml
 .qt
@@ -1060,6 +1064,7 @@
 .ssm
 .sst
 .st
+.star
 .stm
 .story
 .storyboard
