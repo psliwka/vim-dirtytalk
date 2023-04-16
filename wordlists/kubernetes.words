@@ -10,6 +10,7 @@ CertificateSigningRequest
 ClusterCIDR
 ClusterRole
 ClusterRoleBinding
+ClusterTrustBundle
 ComponentStatus
 ConfigMap
 ControllerRevision
@@ -23,6 +24,7 @@ Event
 Eviction
 FlowSchema
 HorizontalPodAutoscaler
+IPAddress
 Ingress
 IngressClass
 Job
@@ -42,11 +44,15 @@ PodDisruptionBudget
 PodExecOptions
 PodPortForwardOptions
 PodProxyOptions
+PodSchedulingContext
 PodTemplate
 PriorityClass
 PriorityLevelConfiguration
 ReplicaSet
 ReplicationController
+ResourceClaim
+ResourceClaimTemplate
+ResourceClass
 ResourceQuota
 Role
 RoleBinding
@@ -65,6 +71,8 @@ StorageVersion
 SubjectAccessReview
 TokenRequest
 TokenReview
+ValidatingAdmissionPolicy
+ValidatingAdmissionPolicyBinding
 ValidatingWebhookConfiguration
 VolumeAttachment
 null
