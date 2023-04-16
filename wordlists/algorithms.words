@@ -211,11 +211,13 @@ Way
 Welch
 Wu's
 Xiaolin
+Xor
 York
 Yule–Simon
 ZPP
 Zeller's
 Zhu–Takaoka
+Zip
 Zipf's
 Zipfian
 Zipper
@@ -523,6 +525,7 @@ full
 fully
 function
 functional
+fuse
 gamma
 generals
 generation
@@ -558,6 +561,7 @@ hyperedge
 hypergraph
 ideal
 implication
+implicit
 implies
 in
 in-branching
@@ -973,6 +977,7 @@ subsequence
 subset
 substring
 subtree
+succinct
 suffix
 sum
 superimposed

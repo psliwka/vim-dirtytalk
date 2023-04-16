@@ -15,6 +15,7 @@ A
 A-Frame
 ABB
 ACM
+ADP
 AEW
 AI
 AIB
@@ -86,8 +87,10 @@ Airlines
 Airtable
 Airways
 Ajv
+Akamai
 Alacritty
 Albert
+Alchemy
 Aldi
 Alexa
 Alfa
@@ -109,6 +112,7 @@ Alpine
 Alpine.js
 Altium
 Alto
+Alwaysdata
 Amazon
 America
 American
@@ -124,8 +128,8 @@ AngelList
 Angular
 AngularJS
 AniList
-Annie
 Ansible
+Answer
 Ansys
 Ant
 Anta
@@ -203,6 +207,7 @@ BIM
 BMC
 BMW
 BT
+BVG
 Babel
 Backblaze
 Backbone.js
@@ -263,6 +268,7 @@ Blogger
 Bloglovin
 Blueprint
 Bluetooth
+BoardGameGeek
 Bob
 Boehringer
 Boeing
@@ -324,6 +330,7 @@ CNN
 CRYENGINE
 CSS
 CSS3
+CTS
 Cachet
 CafePress
 Caffeine
@@ -352,6 +359,7 @@ CentOS
 Ceph
 Cesium
 Chai
+Chainguard
 Chainlink
 Chakra
 Changelog
@@ -377,6 +385,7 @@ Cilium
 Cinema
 Circle
 CircleCI
+CircuitVerse
 Cirrus
 Cisco
 Citrix
@@ -465,7 +474,6 @@ Consul
 Contactless
 Containers
 Contentful
-Control
 Conventional
 Conversation
 Convertio
@@ -495,6 +503,7 @@ Crunchbase
 Crunchyroll
 Crystal
 Cucumber
+Cultura
 CurseForge
 Cycling
 Cypress
@@ -516,6 +525,7 @@ DVC
 Dacia
 Dailymotion
 Daimler
+DaisyUI
 Dapr
 Dark
 Dart
@@ -663,6 +673,7 @@ Enpass
 EnterpriseDB
 Entertainment
 Envato
+Envoy
 Epic
 Epson
 Equinix
@@ -728,6 +739,7 @@ Ferrari
 Fiat
 Fiddle
 Fido
+Fig
 Figma
 Fila
 FileZilla
@@ -737,6 +749,7 @@ Fire
 Firebase
 Firefox
 Fireship
+Firewalla
 Fit
 Fitbit
 FiveM
@@ -755,12 +768,14 @@ Flood
 Fluent
 Fluentd
 Flutter
+Fluxus
 Flyway
 Fnac
 Folium
 Fonoma
 Font
 FontBase
+FontForge
 Fonts
 Ford
 Forestry
@@ -967,6 +982,7 @@ IKEA
 IMDb
 IOTA
 IPFS
+ITVx
 IVECO
 Iata
 IceCat
@@ -992,6 +1008,7 @@ Infiniti
 InfluxDB
 Informatica
 Infosys
+Infracost
 Ingelheim
 Ingress
 Initiative
@@ -1131,6 +1148,7 @@ Kuaishou
 Kubernetes
 Kubuntu
 Kuma
+Kuula
 Kylin
 Kyocera
 LBRY
@@ -1296,6 +1314,7 @@ Meet
 Meetup
 Mendeley
 Mentor
+Mercado
 Mercedes
 Merck
 Mercurial
@@ -1328,8 +1347,11 @@ Mix
 Mixcloud
 MobX
 MobX-State-Tree
+Mobilités
 Mocha
 Models
+Modin
+Modrinth
 Modules
 Mojang
 Moleculer
@@ -1337,6 +1359,7 @@ Momenteo
 Monero
 MoneyGram
 MongoDB
+Monica
 Monitor
 MonoGames
 Monoprix
@@ -1418,6 +1441,7 @@ Noon
 Norco
 Nord
 NordVPN
+Normalize.css
 North
 Norwegian
 Notepad++
@@ -1425,6 +1449,7 @@ Notion
 Notist
 Noun
 Nova
+Novu
 Nrwl
 NuGet
 Nubank
@@ -1444,6 +1469,7 @@ ONNX
 OPNSense
 ORCID
 OS
+OSGeo
 OSMC
 OVH
 OWASP
@@ -1519,12 +1545,14 @@ PUBG
 PWA
 Packagist
 Packer
+PaddlePaddle
 Paddy
 PagSeguro
 PageSpeed
 Pagekit
 PagerDuty
 Pages
+Pago
 Palantir
 Palo
 Pandora
@@ -1609,9 +1637,11 @@ PocketBase
 Podcast
 Podcasts
 Podman
+Poe
 Poetry
 Pointy
 Pokémon
+Polars
 Polish
 Polkadot
 Poly
@@ -1746,6 +1776,7 @@ React
 ReactOS
 ReactiveX
 Read
+ReadMe
 Reader
 Realm
 Reason
@@ -1754,6 +1785,7 @@ Redbubble
 Reddit
 Redis
 Redmine
+Redox
 Redux
 Redux-Saga
 RedwoodJS
@@ -1829,6 +1861,7 @@ SEAT
 SEPA
 SFML
 SMRT
+SNCF
 SPDX
 SQL
 SQLite
@@ -1882,6 +1915,7 @@ SemVer
 Semantic
 Semaphore
 Sencha
+Sendinblue
 Sennheiser
 Sensu
 Sentry
@@ -2000,6 +2034,7 @@ Squarespace
 Stack
 StackBlitz
 StackEdit
+StackHawk
 StackPath
 StackShare
 Stackbit
@@ -2062,6 +2097,7 @@ Swiper
 Switch
 SymPy
 Symantec
+Symbolab
 Symfony
 Symphony
 Synology
@@ -2073,6 +2109,9 @@ Süd
 T-Mobile
 TED
 TELE5
+TGA
+TNT
+TOML
 TP-Link
 TUI
 TV
@@ -2244,6 +2283,7 @@ VSCodium
 VTEX
 Vaadin
 Vagrant
+Vala
 Valorant
 Valve
 Vapor
@@ -2260,7 +2300,6 @@ Verdaccio
 Veritas
 Verizon
 Verkehrsverbund
-Version
 Vert.x
 Viadeo
 Viber
@@ -2300,9 +2339,11 @@ WWE
 Wabbit
 Wacom
 Wagtail
+Wails
 WakaTime
 Wallabag
 Walmart
+Wantedly
 Wappalyzer
 Warner
 Warp
@@ -2311,6 +2352,7 @@ Wasmer
 Watch
 Watson
 Wattpad
+Wayland
 Waze
 WeChat
 WeGame
@@ -2389,6 +2431,7 @@ Xiaomi
 Xilinx
 Xing
 Y
+YAML
 YOLO
 Yahoo!
 Yale
@@ -2549,5 +2592,6 @@ wasmCloud
 webcomponents.org
 webhint
 write.as
+Île-de-France
 ŠKODA
 Żabka

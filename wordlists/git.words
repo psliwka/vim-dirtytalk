@@ -8,8 +8,10 @@ SCM
 SHA-1
 also
 alternate
+and
 archive
 bare
+bitmaps
 blob
 branch
 cache
@@ -20,8 +22,10 @@ cherry-picking
 clean
 clone
 commit
+commit-graph
 commit-ish
 committish
+concept,
 core
 dangling
 database
@@ -35,6 +39,7 @@ fetch
 file
 gitfile
 grafts
+graph
 hash
 head
 hook
@@ -45,6 +50,7 @@ merge
 name
 object
 octopus
+oid
 origin
 overlay
 pack
@@ -57,6 +63,7 @@ porcelain
 pseudoref
 pull
 push
+reachability
 reachable
 rebase
 ref
@@ -65,6 +72,7 @@ refspec
 remote
 remote-tracking
 repository
+representations
 resolve
 revision
 rewind
@@ -83,5 +91,6 @@ type
 unmerged
 unreachable
 upstream
+usage
 working
 worktree
