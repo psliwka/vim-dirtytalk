@@ -5,7 +5,6 @@ a
 abbr
 acronym
 address
-applet
 area
 article
 aside
@@ -14,9 +13,7 @@ b
 base
 bdi
 bdo
-bgsound
 big
-blink
 blockquote
 body
 br
@@ -68,7 +65,6 @@ img
 input
 ins
 kbd
-keygen
 label
 legend
 li
@@ -108,13 +104,13 @@ ruby
 s
 samp
 script
+search
 section
 select
 shadow
 slot
 small
 source
-spacer
 span
 strike
 strong
