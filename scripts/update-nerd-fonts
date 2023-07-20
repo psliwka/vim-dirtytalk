@@ -3,7 +3,9 @@ source "$(dirname $0)/common.sh"
 
 emit_header "Special codepoints used by Nerd Fonts"
 curl -s https://www.nerdfonts.com/cheat-sheet \
-  | pup '.codepoint text{}' \
+  | pup 'script:first-of-type' \
+  | grep -Eo '"[0-9a-f]{4}",$' \
+  | cut -c 2-5 \
   | while read codepoint; do
       echo "print('\u$codepoint/?')"
     done \
