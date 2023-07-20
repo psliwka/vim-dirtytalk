@@ -1,7 +1,6 @@
 # This file is generated automatically by `scripts/update-python`. Please do not edit it directly.
 
 # Python-related vocabulary
-2to3
 API
 BDFL
 CPython
@@ -41,6 +40,7 @@ contiguous
 coroutine
 count
 decorator
+deprecated
 descriptor
 dictionary
 dispatch
@@ -122,6 +122,7 @@ set
 shutdown
 single
 slice
+soft
 spec
 special
 statement

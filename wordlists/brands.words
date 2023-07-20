@@ -17,6 +17,7 @@ ABB
 ACM
 ADP
 AEW
+AFFiNE
 AI
 AIB
 AIOHTTP
@@ -52,6 +53,7 @@ Acrobat
 ActiGraph
 Actions
 Activision
+Acura
 AdBlock
 AdGuard
 AdMob
@@ -64,6 +66,7 @@ Adidas
 Adminer
 Adobe
 AdonisJS
+Adoptium
 Ads
 Adyen
 Aer
@@ -102,7 +105,6 @@ AliExpress
 Alibaba
 Alibaba.com
 Alipay
-Alitalia
 AllTrails
 Allegro
 Alliance
@@ -114,6 +116,7 @@ Altium
 Alto
 Alwaysdata
 Amazon
+Ameba
 America
 American
 Amplify
@@ -145,9 +148,11 @@ AppVeyor
 Appian
 Apple
 Apps
+Appsmith
 Appwrite
 Aqua
 ArangoDB
+ArcGIS
 Arcade
 Arch
 Archicad
@@ -156,6 +161,7 @@ Ardour
 Arduino
 Argo
 Argos
+Ariakit
 Arlo
 Arm
 Armour
@@ -209,6 +215,7 @@ BMW
 BT
 BVG
 Babel
+Babylon.js
 Backblaze
 Backbone.js
 Backendless
@@ -239,6 +246,7 @@ Behance
 Beijing
 Bell
 Bentley
+Bento
 Betfair
 Biases
 Big
@@ -285,6 +293,7 @@ Bootstrap
 BorgBackup
 Bosch
 Bose
+Botble
 Bounty
 Bower
 Box
@@ -332,6 +341,7 @@ CSS
 CSS3
 CTS
 Cachet
+Cadillac
 CafePress
 Caffeine
 Cairo
@@ -343,6 +353,7 @@ Canonical
 Canva
 Capacitor
 Car
+Cardano
 Cardboard
 Carrefour
 Cartel
@@ -374,6 +385,7 @@ Checkmarx
 Chef
 Chemex
 Chevrolet
+Chia
 China
 Chocolatey
 Chrome
@@ -462,6 +474,7 @@ Commodore
 Common
 Commons
 Community
+Compiler
 Compose
 Composer
 Comsol
@@ -475,6 +488,7 @@ Construct
 Consul
 Contactless
 Containers
+Contao
 Contentful
 Conventional
 Conversation
@@ -520,8 +534,10 @@ DC
 DHL
 DJ
 DLNA
+DOI
 DPD
 DS
+DTS
 DTube
 DVC
 Dacia
@@ -624,6 +640,7 @@ Dynatrace
 E.Leclerc
 E3
 EA
+EBOX
 EC2
 ECS
 ECharts
@@ -634,6 +651,7 @@ ESEA
 ESLGaming
 ESLint
 ESPHome
+ESRI
 Eagle
 Earth
 Eastern
@@ -649,6 +667,7 @@ Eight
 El
 Elastic
 Elasticsearch
+Elavon
 Electric
 Electron
 Electronics
@@ -738,6 +757,7 @@ FedEx
 Fedora
 Feedly
 Ferrari
+Fi
 Fiat
 Fiddle
 Fido
@@ -781,6 +801,7 @@ FontForge
 Fonts
 Ford
 Forestry
+Forgejo
 Form
 Formstack
 Fortinet
@@ -803,7 +824,9 @@ Fraunhofer-Gesellschaft
 FreeBSD
 FreeNAS
 Freelancer
+Freepik
 Frontend
+Frontify
 Fuga
 Fujifilm
 Fujitsu
@@ -815,6 +838,7 @@ FutureLearn
 Fx
 G2
 G2A
+GDAL
 GIMP
 GIPHY
 GNOME
@@ -1001,6 +1025,7 @@ Illustrator
 ImageJ
 Imgur
 Immer
+Immich
 Imou
 InDesign
 InVision
@@ -1080,6 +1105,7 @@ Jolt
 Joomla
 Joplin
 Jordan
+Judge
 Jueves
 Julia
 Jungle
@@ -1125,6 +1151,7 @@ Kik
 King
 Kingston
 KinoPoisk
+Kinsta
 Kirby
 Kitsu
 Klarna
@@ -1188,11 +1215,13 @@ Legacy
 Lemmy
 Lenovo
 Lens
+Leptos
 Lerna
 Leroy
 Less
 Let's
 Letterboxd
+Libera.Chat
 Liberapay
 Libraries.io
 Library
@@ -1212,7 +1241,6 @@ LinkedIn
 Linkerd
 Linkfire
 Linktree
-Linode
 Linux
 Lion
 Liquibase
@@ -1229,6 +1257,7 @@ LogMeIn
 Logic
 Logitech
 Logo
+Logseq
 Logstash
 London
 Looker
@@ -1251,6 +1280,7 @@ MAN
 MDN
 MDX
 MEGA
+MG
 MIDI
 MLB
 MLflow
@@ -1259,6 +1289,7 @@ MQTT
 MSI
 MTA
 MTR
+MUBI
 MUI
 MX
 MYOB
@@ -1277,6 +1308,7 @@ MakerBot
 ManageIQ
 Manager
 Manjaro
+MapLibre
 Mapbox
 Maps
 MariaDB
@@ -1296,6 +1328,7 @@ Matrix
 Matter.js
 Mattermost
 Matternet
+Mautic
 Maven
 Max
 Max-Planck-Gesellschaft
@@ -1337,6 +1370,7 @@ MicroStrategy
 Microgenetics
 Microsoft
 Mighty
+Mikrotik
 Minds
 Minecraft
 Minetest
@@ -1344,6 +1378,7 @@ Mini
 Mint
 Minutemailer
 Miro
+Misskey
 Mitsubishi
 Mix
 Mixcloud
@@ -1361,9 +1396,11 @@ Momenteo
 Monero
 MoneyGram
 MongoDB
+Mongoose
 Monica
 Monitor
-MonoGames
+Monkeytype
+MonoGame
 Monoprix
 Monster
 Monzo
@@ -1378,6 +1415,7 @@ Motors
 Movie
 Mozilla
 Mulesoft
+Multisim
 Mumble
 Municipal
 MuseScore
@@ -1401,6 +1439,7 @@ NFC
 NGINX
 NOW
 NVIDIA
+NXP
 NZXT
 Namebase
 Namecheap
@@ -1428,7 +1467,9 @@ Next.js
 NextBillion.ai
 Nextcloud
 Nextdoor
+Nginx
 Nike
+Nikon
 Nim
 Ninja
 Ninjas
@@ -1562,6 +1603,7 @@ Pantheon
 Paperspace
 Paris
 Parity
+Parquet
 Parse.ly
 Passport
 Pastebin
@@ -1569,6 +1611,7 @@ Patreon
 Paulo
 Pay
 PayPal
+Payload
 Payment
 Payoneer
 Paytm
@@ -1661,15 +1704,18 @@ Power
 PowerPoint
 PowerShell
 Preact
+Prefect
 Premier
 Premiere
 PrestaShop
 Presto
 Prettier
+Pretzel
 Prevention
 Prezi
 Price
 Prime
+Printables
 Prisma
 Prismic
 Privacy
@@ -1687,12 +1733,14 @@ Project
 Projekt
 Prometheus
 Proto.io
+Proton
 ProtonDB
 ProtonMail
 ProtonVPN
 Protractor
 Proxmox
 Proxy
+Pterodactyl
 PubMed
 Publisher
 Publons
@@ -1748,6 +1796,7 @@ R
 R3
 RDS
 REWE
+RISC-V
 ROS
 RSS
 RSocket
@@ -1782,12 +1831,14 @@ ReadMe
 Reader
 Realm
 Reason
+Recoil
 Red
 Redbubble
 Reddit
 Redis
 Redmine
 Redox
+Redshift
 Redux
 Redux-Saga
 RedwoodJS
@@ -1849,6 +1900,7 @@ Rover
 RuboCop
 Ruby
 RubyGems
+Ruff
 RunKit
 Runkeeper
 Rust
@@ -1902,6 +1954,7 @@ Scratch
 Screencastify
 Scribd
 Scrimba
+Script
 ScrollReveal
 Scrum
 Scrutinizer
@@ -1956,6 +2009,7 @@ Sina
 Sinatra
 SingleStore
 SitePoint
+Sitecore
 Sketch
 SketchUp
 Sketchfab
@@ -1964,6 +2018,7 @@ Sky
 Skynet
 Skypack
 Skype
+Skyrock
 Slack
 Slackware
 Slashdot
@@ -2005,6 +2060,7 @@ Soundcharts
 Sounds
 Source
 SourceForge
+SourceHut
 Sourcegraph
 Sourcetree
 Southern
@@ -2018,6 +2074,7 @@ Sparkasse
 Speaker
 Spectrum
 Speedtest
+Sphere
 Spiegel
 Spinnaker
 Spinrilla
@@ -2085,6 +2142,7 @@ Subway
 Sumo
 Supabase
 Super
+Supercrease
 Supermicro
 Surgelés
 SurrealDB
@@ -2153,6 +2211,7 @@ Tencent
 TensorFlow
 Teradata
 Terminal
+Termius
 Terraform
 Tesco
 Tesla
@@ -2166,6 +2225,7 @@ The
 Thingiverse
 ThinkPad
 Threadless
+Threads
 Three.js
 Threema
 Throttle
@@ -2200,6 +2260,7 @@ Toshiba
 Toyota
 Tracker
 Traefik
+Trailforks
 TrainerRoad
 Trakt
 Translate
@@ -2215,6 +2276,7 @@ Triller
 Trino
 Trip.com
 Tripadvisor
+Trivy
 Trove
 TrueNAS
 Trusted
@@ -2295,6 +2357,7 @@ Vector
 Vectorworks
 Veeam
 Veepee
+Vega
 Velog
 Venmo
 Vercel
@@ -2320,8 +2383,10 @@ Vita
 Vite
 Vitess
 Vitest
+Viva
 Vivaldi
 Vivino
+VoIP.ms
 Vodafone
 Volkswagen
 Volvo
@@ -2344,11 +2409,13 @@ Wagtail
 Wails
 WakaTime
 Wallabag
+Wallet
 Walmart
 Wantedly
 Wappalyzer
 Warner
 Warp
+Wasabi
 Washington
 Wasmer
 Watch
@@ -2467,6 +2534,7 @@ Zettlr
 Zhihu
 Zig
 Zigbee
+Zilch
 Zillow
 ZincSearch
 Zingat
@@ -2540,6 +2608,7 @@ la
 levels.fyi
 libuv
 macOS
+mail.com
 mastercomfig
 mdBook
 media
@@ -2564,6 +2633,7 @@ pnpm
 pr.co
 pre-commit
 protocols.io
+read.cv
 reveal.js
 rollup.js
 scikit-learn

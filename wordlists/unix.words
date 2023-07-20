@@ -47,6 +47,7 @@ arch
 arp
 arping
 asa
+ascii
 ash
 at
 awk
@@ -59,6 +60,7 @@ batch
 bc
 bg
 blkdiscard
+blkid
 blockdev
 brctl
 bunzip2
@@ -84,6 +86,7 @@ compress
 coreutils
 cp
 cpio
+crc32
 crontab
 csplit
 ctags
@@ -120,10 +123,12 @@ fallocate
 false
 fatattr
 fc
+fdisk
 fg
 fgrep
 file
 find
+findfs
 fmt
 fold
 fort77
@@ -156,6 +161,7 @@ i2cdetect
 i2cdump
 i2cget
 i2cset
+i2ctransfer
 iconv
 id
 ifconfig
@@ -207,6 +213,7 @@ md5sum
 mdev
 mesg
 microcom
+mim
 mkdir
 mkdosfs
 mke2fs
@@ -297,6 +304,7 @@ sha1sum
 sha224sum
 sha256sum
 sha384sum
+sha3sum
 sha512sum
 shred
 shuf
@@ -339,6 +347,7 @@ traceroute
 traceroute6
 true
 truncate
+ts
 tsort
 tty
 type
