@@ -8,6 +8,7 @@
 1Password
 3DS
 3M
+3T
 4D
 4chan
 500px
@@ -165,6 +166,7 @@ Ariakit
 Arlo
 Arm
 Armour
+Ars
 ArtStation
 Artifact
 Artifacts
@@ -191,6 +193,7 @@ Audiomack
 Audition
 Aurelia
 Auth0
+Authelia
 Authy
 Auto
 AutoHotkey
@@ -235,6 +238,7 @@ Barclays
 Baremetrics
 Basecamp
 Bash
+Basic
 Bastyon
 Bata
 Bath
@@ -341,6 +345,7 @@ CSS
 CSS3
 CTS
 Cachet
+Caddy
 Cadillac
 CafePress
 Caffeine
@@ -374,6 +379,7 @@ Chainguard
 Chainlink
 Chakra
 Changelog
+Channel
 Chart.js
 ChartMogul
 Chase
@@ -382,6 +388,7 @@ ChatBot
 Che
 CheckiO
 Checkmarx
+Checkmk
 Chef
 Chemex
 Chevrolet
@@ -406,6 +413,7 @@ City
 Ciudad
 CiviCRM
 Civo
+Clarifai
 Claris
 Classic
 Classroom
@@ -444,6 +452,8 @@ CodeNewbie
 CodePen
 CodeProject
 CodeSandbox
+CodeSignal
+CodeStream
 Codeberg
 Codecademy
 CodeceptJS
@@ -487,6 +497,7 @@ Console
 Construct
 Consul
 Contactless
+Container
 Containers
 Contao
 Contentful
@@ -576,6 +587,7 @@ Dell
 Delphi
 Delta
 Deno
+Denon
 Dependabot
 Deploy
 Der
@@ -660,6 +672,8 @@ Eats
 Eclipse
 Ecosystem
 Edge
+Edit
+Editor
 EditorConfig
 Effects
 Egnyte
@@ -743,6 +757,7 @@ Fandango
 Fandom
 Fanfou
 Fantom
+FareHarbor
 Fargate
 FastAPI
 Fastify
@@ -757,6 +772,7 @@ FedEx
 Fedora
 Feedly
 Ferrari
+FerretDB
 Fi
 Fiat
 Fiddle
@@ -769,6 +785,7 @@ Files
 Fing
 Fire
 Firebase
+Firefly
 Firefox
 Fireship
 Firewalla
@@ -845,6 +862,7 @@ GNOME
 GNU
 GOG.com
 GSK
+GStreamer
 GTK
 Game
 GameCube
@@ -918,11 +936,13 @@ Gurobi
 Gutenberg
 Gym
 Géant
+H3
 HBO
 HCL
 HERE
 HEY
 HP
+HSBC
 HTML
 HTML5
 HTTPie
@@ -979,6 +999,7 @@ Hoppscotch
 Horizon
 Hotels.com
 Hotjar
+Hotwire
 Houdini
 Houzz
 Huawei
@@ -1004,6 +1025,7 @@ IDE
 IDEA
 IEEE
 IFTTT
+III
 IKEA
 IMDb
 IOTA
@@ -1030,7 +1052,9 @@ Imou
 InDesign
 InVision
 Indeed
+India
 Industries
+Inertia
 Infiniti
 InfluxDB
 Informatica
@@ -1078,6 +1102,7 @@ JR
 JSFiddle
 JSON
 JSS
+JUCE
 JUKE
 JUnit5
 Jabber
@@ -1106,6 +1131,7 @@ Joomla
 Joplin
 Jordan
 Judge
+Juejin
 Jueves
 Julia
 Jungle
@@ -1125,6 +1151,7 @@ KaiOS
 Kakao
 KakaoTalk
 Kali
+Kamailio
 Kaniko
 Karlsruher
 Kasa
@@ -1153,6 +1180,7 @@ Kingston
 KinoPoisk
 Kinsta
 Kirby
+Kit
 Kitsu
 Klarna
 Klook
@@ -1162,6 +1190,7 @@ Known
 Ko-fi
 Koa
 Koc
+Kodak
 Kodi
 Kofax
 Komoot
@@ -1190,6 +1219,7 @@ LITIENGINE
 LLVM
 LMMS
 LOT
+LTspice
 LaTeX
 LabVIEW
 Labs
@@ -1212,6 +1242,7 @@ League
 Leanpub
 LeetCode
 Legacy
+Leica
 Lemmy
 Lenovo
 Lens
@@ -1271,6 +1302,7 @@ Ludwig
 Lufthansa
 Lumberyard
 Lumen
+Luna
 Lunacy
 Lydia
 Lyft
@@ -1305,6 +1337,7 @@ MailChimp
 Mailgun
 Major
 MakerBot
+Mamba
 ManageIQ
 Manager
 Manjaro
@@ -1339,6 +1372,7 @@ McDonald's
 McLaren
 Me
 MeWe
+MediBang
 Media
 MediaFire
 MediaMarkt
@@ -1369,6 +1403,7 @@ MicroPython
 MicroStrategy
 Microgenetics
 Microsoft
+Microstation
 Mighty
 Mikrotik
 Minds
@@ -1462,11 +1497,13 @@ Network
 Networks
 Neutralinojs
 New
+Newegg
 News
 Next.js
 NextBillion.ai
 Nextcloud
 Nextdoor
+Nextra
 Nginx
 Nike
 Nikon
@@ -1549,6 +1586,7 @@ OpenMined
 OpenNebula
 OpenOffice
 OpenProject
+OpenSCAD
 OpenSSL
 OpenSea
 OpenSearch
@@ -1565,6 +1603,7 @@ Opera
 OpsLevel
 Opsgenie
 Optimize
+Optimized
 Oracle
 Org
 Organization
@@ -1596,6 +1635,7 @@ Pagekit
 PagerDuty
 Pages
 Pago
+Paint
 Palantir
 Palo
 Pandora
@@ -1697,6 +1737,7 @@ Porsche
 Portainer
 Post
 PostCSS
+PostHog
 PostgreSQL
 Postman
 Postmates
@@ -1762,6 +1803,7 @@ PyScaffold
 PySyft
 PyTorch
 PyUp
+Pydantic
 Pytest
 Python
 QEMU
@@ -1790,6 +1832,7 @@ QuickLook
 QuickTime
 Quip
 Quora
+Qwant
 Qwiklabs
 Qzone
 R
@@ -1823,6 +1866,7 @@ Razer
 Razorpay
 ReScript
 ReSharper
+ReVanced
 React
 ReactOS
 ReactiveX
@@ -1860,6 +1904,7 @@ RescueTime
 Research
 ResearchGate
 Resource
+Resume
 Resurrection
 RetroArch
 RetroPie
@@ -1902,6 +1947,7 @@ Ruby
 RubyGems
 Ruff
 RunKit
+Rundeck
 Runkeeper
 Rust
 RxDB
@@ -1938,6 +1984,7 @@ Salt
 Samsung
 San
 SanDisk
+Sanity
 Sass
 Sat.1
 Saturn
@@ -1982,6 +2029,7 @@ Setapp
 Shadow
 Shanghai
 SharePoint
+ShareX
 Sharp
 Shazam
 Sheets
@@ -2074,6 +2122,7 @@ Sparkasse
 Speaker
 Spectrum
 Speedtest
+SpeedyPage
 Sphere
 Spiegel
 Spinnaker
@@ -2099,6 +2148,7 @@ StackShare
 Stackbit
 Stadia
 Staffbase
+Standard
 StandardJS
 Star
 Starbucks
@@ -2121,6 +2171,7 @@ Stimulus
 Stitcher
 StopStalk
 Store
+Storm
 Storyblok
 Storybook
 Strapi
@@ -2137,6 +2188,7 @@ Subaru
 Sublime
 Substack
 Substrate
+Subtitle
 Subversion
 Subway
 Sumo
@@ -2200,6 +2252,7 @@ TeamCity
 TeamSpeak
 TeamViewer
 Teams
+Technica
 Technologies
 Technology
 Teespring
@@ -2216,6 +2269,7 @@ Terraform
 Tesco
 Tesla
 TestCafe
+TestRail
 Testin
 Testing
 Tether
@@ -2234,6 +2288,7 @@ Thunderbird
 Thymeleaf
 Ticketmaster
 Tidal
+TiddlyWiki
 Tide
 Tidyverse
 TietoEVRY
@@ -2258,6 +2313,7 @@ Toptal
 Tor
 Toshiba
 Toyota
+Track
 Tracker
 Traefik
 Trailforks
@@ -2272,6 +2328,7 @@ Trek
 Trello
 Trend
 Treyarch
+Trilium
 Triller
 Trino
 Trip.com
@@ -2286,6 +2343,7 @@ TryHackMe
 Tubi
 Tumblr
 TuneIn
+Turbo
 TurboSquid
 Turborepo
 Turkish
@@ -2300,6 +2358,7 @@ U
 UFC
 UI
 UIkit
+UML
 UPS
 USPS
 Uber
@@ -2410,6 +2469,7 @@ Wails
 WakaTime
 Wallabag
 Wallet
+WalletConnect
 Walmart
 Wantedly
 Wappalyzer
@@ -2589,6 +2649,7 @@ freedesktop.org
 gitignore.io
 gulp
 haveibeenpwned
+hearthis.at
 homify
 i18next
 iBeacon
@@ -2622,6 +2683,7 @@ okcupid
 on
 openSUSE
 osu!
+ownCloud
 p5.js
 pandas
 pfSense
@@ -2635,6 +2697,7 @@ pre-commit
 protocols.io
 read.cv
 reveal.js
+roadmap.sh
 rollup.js
 scikit-learn
 semantic-release
@@ -2663,6 +2726,8 @@ vFairs
 wasmCloud
 webcomponents.org
 webhint
+webtrees
+wiki.gg
 write.as
 Île-de-France
 ŠKODA
