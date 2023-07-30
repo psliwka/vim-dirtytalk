@@ -68,6 +68,7 @@ Adminer
 Adobe
 AdonisJS
 Adoptium
+Adroll
 Ads
 Adyen
 Aer
@@ -83,6 +84,7 @@ Air
 AirAsia
 AirPlay
 Airbnb
+Airbrake.io
 Airbus
 Airbyte
 Aircall
@@ -113,6 +115,7 @@ AlliedModders
 AlloCiné
 Alpine
 Alpine.js
+Alteryx
 Altium
 Alto
 Alwaysdata
@@ -141,6 +144,7 @@ Antena
 AnyDesk
 Apache
 Aparat
+Apifox
 Apollo
 Apostrophe
 App
@@ -251,6 +255,7 @@ Beijing
 Bell
 Bentley
 Bento
+BentoML
 Betfair
 Biases
 Big
@@ -262,6 +267,7 @@ Binance
 Bing
 Bintray
 Bio
+BisectHosting
 Bit
 Bitbucket
 Bitcoin
@@ -284,6 +290,7 @@ BoardGameGeek
 Bob
 Boehringer
 Boeing
+Bombardier
 BookBub
 BookMyShow
 BookStack
@@ -305,6 +312,7 @@ Boxy
 Brandfolder
 Brave
 Breaker
+Brevo
 British
 Broadcom
 Bros.
@@ -385,6 +393,7 @@ ChartMogul
 Chase
 Chat
 ChatBot
+Chatwoot
 Che
 CheckiO
 Checkmarx
@@ -519,6 +528,7 @@ Coveralls
 Craft
 CrateDB
 Crayon
+Creality
 Create
 Creative
 Credly
@@ -667,6 +677,7 @@ ESRI
 Eagle
 Earth
 Eastern
+EasyEDA
 Eat
 Eats
 Eclipse
@@ -735,6 +746,7 @@ Express
 ExpressVPN
 Extensions
 EyeEm
+F#
 F-Droid
 F-Secure
 F1
@@ -820,6 +832,7 @@ Ford
 Forestry
 Forgejo
 Form
+Forms
 Formstack
 Fortinet
 Fortran
@@ -864,6 +877,7 @@ GOG.com
 GSK
 GStreamer
 GTK
+GX
 Game
 GameCube
 Gamers
@@ -962,7 +976,9 @@ Hangouts
 Hansen
 HappyCow
 Harbor
+Hardware
 HarmonyOS
+HashiCorp
 Hashnode
 Haskell
 Hasura
@@ -1030,6 +1046,7 @@ IKEA
 IMDb
 IOTA
 IPFS
+IRIS
 ITVx
 IVECO
 Iata
@@ -1043,6 +1060,7 @@ Iconfinder
 Iconify
 Icons
 Icons8
+Identity
 Illustrator
 ImageJ
 Imgur
@@ -1052,6 +1070,7 @@ Imou
 InDesign
 InVision
 Indeed
+Index
 India
 Industries
 Inertia
@@ -1083,6 +1102,7 @@ Intermarche
 International
 Internet
 Intigriti
+Intuit
 Invoice
 Ionic
 Ionos
@@ -1130,6 +1150,7 @@ Jolt
 Joomla
 Joplin
 Jordan
+Jovian
 Judge
 Juejin
 Jueves
@@ -1153,6 +1174,7 @@ KakaoTalk
 Kali
 Kamailio
 Kaniko
+Kantonalbank
 Karlsruher
 Kasa
 KashFlow
@@ -1339,6 +1361,7 @@ Major
 MakerBot
 Mamba
 ManageIQ
+Management
 Manager
 Manjaro
 MapLibre
@@ -1412,6 +1435,7 @@ Minetest
 Mini
 Mint
 Minutemailer
+Miraheze
 Miro
 Misskey
 Mitsubishi
@@ -1468,6 +1492,7 @@ N26
 NASA
 NBA
 NBB
+NBC
 NDR
 NEC
 NFC
@@ -1504,6 +1529,7 @@ NextBillion.ai
 Nextcloud
 Nextdoor
 Nextra
+NgRx
 Nginx
 Nike
 Nikon
@@ -1651,11 +1677,13 @@ Patreon
 Paulo
 Pay
 PayPal
+Paychex
 Payload
 Payment
 Payoneer
 Paytm
 Peak
+Pearson
 PeerTube
 Pegasus
 Pelican
@@ -1673,6 +1701,7 @@ Peugeot
 Pexels
 Phabricator
 Philips
+Phoenix
 PhonePe
 Photo
 Photobucket
@@ -1806,6 +1835,7 @@ PyUp
 Pydantic
 Pytest
 Python
+PythonAnywhere
 QEMU
 QIWI
 QMK
@@ -1816,6 +1846,7 @@ Qgis
 Qi
 Qiita
 Qiskit
+Qlik
 Qt
 Qualcomm
 Qualtrics
@@ -1851,6 +1882,7 @@ RabbitMQ
 Racket
 Radar
 RadioPublic
+Radix
 Rails
 Railway
 Rainmeter
@@ -1967,11 +1999,13 @@ SQL
 SQLite
 SQS
 SSRN
+SST
 STARZ
 STMicroelectronics
 SUSE
 SV
 SVG
+SVG.js
 SVGO
 SWC
 Sabanci
@@ -2016,6 +2050,7 @@ Sellfy
 SemVer
 Semantic
 Semaphore
+Semrush
 Sencha
 Sendinblue
 Sennheiser
@@ -2179,6 +2214,7 @@ Strava
 Streamlit
 Street
 Stripe
+Stryker
 StubHub
 Studio
 Studios
@@ -2275,6 +2311,7 @@ Testing
 Tether
 Text
 Textpattern
+Thangs
 The
 Thingiverse
 ThinkPad
@@ -2285,6 +2322,7 @@ Threema
 Throttle
 Thumbtack
 Thunderbird
+Thurgauer
 Thymeleaf
 Ticketmaster
 Tidal
@@ -2297,6 +2335,7 @@ Tile
 Time
 Times
 Timescale
+Tina
 Tinder
 TinyLetter
 Tistory
@@ -2450,6 +2489,7 @@ Vodafone
 Volkswagen
 Volvo
 Vonage
+Voron
 Vowpal
 Vue.js
 Vuetify
@@ -2598,6 +2638,7 @@ Zilch
 Zillow
 ZincSearch
 Zingat
+Zod
 Zoho
 Zoiper
 Zomato
@@ -2615,6 +2656,7 @@ avajs
 awesomeWM
 bigbasket
 boulanger
+bspwm
 bunq
 by
 byte
@@ -2696,6 +2738,7 @@ pr.co
 pre-commit
 protocols.io
 read.cv
+remark
 reveal.js
 roadmap.sh
 rollup.js
