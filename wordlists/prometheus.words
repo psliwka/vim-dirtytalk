@@ -8,3 +8,4 @@ PromQL
 Promdash
 Pushgateway
 float64
+precompute
