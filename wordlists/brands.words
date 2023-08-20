@@ -1,6 +1,7 @@
 # This file is generated automatically by `scripts/update-brands`. Please do not edit it directly.
 
 # Popular (mostly IT-related) brands
+(ISC)²
 .ENV
 .NET
 ,e,
@@ -405,6 +406,7 @@ Chevrolet
 Chia
 China
 Chocolatey
+Chromatic
 Chrome
 Chromecast
 Chrysler
@@ -495,6 +497,7 @@ Commodore
 Common
 Commons
 Community
+CompTIA
 Compiler
 Compose
 Composer
@@ -507,6 +510,7 @@ Confluence
 Console
 Construct
 Consul
+Consultancy
 Contactless
 Container
 Containers
@@ -528,6 +532,7 @@ CountingWorks
 Coursera
 Coveralls
 Craft
+Craftsman
 CrateDB
 Crayon
 Creality
@@ -590,6 +595,7 @@ Datto
 De'Longhi
 Dear
 Debian
+Decap
 Deck
 Deepnote
 Deere
@@ -726,6 +732,7 @@ Envoy
 Epic
 Epson
 Equinix
+Ericsson
 Erlang
 Erste
 Espressif
@@ -814,6 +821,7 @@ Flathub
 Flatpak
 Flattr
 Flickr
+Flightaware
 Flink
 Flipboard
 Flipkart
@@ -882,6 +890,7 @@ GStreamer
 GTK
 GX
 Game
+GameBanana
 GameCube
 Gamemaker
 Gamers
@@ -992,6 +1001,7 @@ Haxe
 Headless
 Headspace
 Health
+Hearth
 Hedera
 Heijn
 HelloFresh
@@ -1001,6 +1011,7 @@ Help
 HelpDesk
 Heroku
 Hetzner
+Hexlet
 Hexo
 Hi
 Hibernate
@@ -1013,6 +1024,7 @@ Homebrew
 Homebridge
 Honda
 Honey
+Honor
 Hook
 Hootsuite
 Hoppscotch
@@ -1045,6 +1057,7 @@ IDE
 IDEA
 IEEE
 IFTTT
+IGDB
 III
 IKEA
 IMDb
@@ -1145,6 +1158,7 @@ Jekyll
 Jellyfin
 Jenkins
 Jest
+JetBlue
 JetBrains
 Jetpack
 Jetty
@@ -1191,6 +1205,7 @@ Kaufland
 Kdenlive
 KeePassXC
 Keep
+Keil
 Kentico
 Keras
 KeyCDN
@@ -1270,6 +1285,7 @@ League
 Leanpub
 LeetCode
 Legacy
+Legends
 Leica
 Lemmy
 Lenovo
@@ -1288,6 +1304,7 @@ LibraryThing
 LibreOffice
 Lichess
 Lidl
+LightBurn
 Lighthouse
 Lightning
 Lightroom
@@ -1311,6 +1328,7 @@ LiveChat
 LiveJournal
 Livestream
 Livewire
+Local
 Lodash
 LogMeIn
 Logic
@@ -1435,6 +1453,8 @@ Microsoft
 Microstation
 Mighty
 Mikrotik
+Milvus
+MinIO
 Minds
 Minecraft
 Minetest
@@ -1496,10 +1516,12 @@ Müller
 N.V.
 N26
 NASA
+NATS.io
 NBA
 NBB
 NBC
 NDR
+NEAR
 NEC
 NFC
 NGINX
@@ -1591,6 +1613,7 @@ Obsidian
 Octane
 Octave
 OctoPrint
+October
 Octopus
 Oculus
 Odnoklassniki
@@ -1718,6 +1741,7 @@ Photoshop
 PhpStorm
 Pi
 Pi-hole
+Piaggio
 PicPay
 Picard
 Picarto.TV
@@ -1944,6 +1968,7 @@ ResearchGate
 Resource
 Resume
 Resurrection
+Retool
 RetroArch
 RetroPie
 ReverbNation
@@ -1984,6 +2009,7 @@ RuboCop
 Ruby
 RubyGems
 Ruff
+Rumble
 RunKit
 Rundeck
 Runkeeper
@@ -2024,6 +2050,7 @@ Salt
 Samsung
 San
 SanDisk
+Sanic
 Sanity
 Sass
 Sat.1
@@ -2065,6 +2092,7 @@ Sentry
 Sequelize
 Server
 Serverless
+Services
 Sessionize
 Setapp
 Shadow
@@ -2096,6 +2124,7 @@ Simple
 Simplenote
 Sina
 Sinatra
+Singapore
 SingleStore
 SitePoint
 Sitecore
@@ -2501,6 +2530,7 @@ Vue.js
 Vuetify
 Vulkan
 Vultr
+Vyond
 W3C
 WALKMAN
 WEBTOON
@@ -2614,6 +2644,7 @@ Yamaha
 Yammer
 Yarn
 Yelp
+Yeti
 Yoast
 York
 YouTube
@@ -2633,6 +2664,7 @@ Zend
 Zendesk
 Zenn
 Zenodo
+Zensar
 ZeroMQ
 Zerodha
 Zerply
@@ -2699,6 +2731,7 @@ gulp
 haveibeenpwned
 hearthis.at
 homify
+htop
 i18next
 iBeacon
 iCloud
