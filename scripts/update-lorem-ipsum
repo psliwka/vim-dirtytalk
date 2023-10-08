@@ -12,4 +12,5 @@ culpa qui officia deserunt mollit anim id est laborum.
 " \
   | tr ' ' '\n' \
   | tr -d '.,' \
+  | tr '[:upper:]' '[:lower:]' \
   | emit_words

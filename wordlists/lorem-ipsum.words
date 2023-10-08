@@ -1,10 +1,6 @@
 # This file is generated automatically by `scripts/update-lorem-ipsum`. Please do not edit it directly.
 
 # Words used in the standard Lorem Ipsum passage
-Duis
-Excepteur
-Lorem
-Ut
 ad
 adipiscing
 aliqua
@@ -22,6 +18,7 @@ deserunt
 do
 dolor
 dolore
+duis
 ea
 eiusmod
 elit
@@ -31,6 +28,7 @@ est
 et
 eu
 ex
+excepteur
 exercitation
 fugiat
 id
@@ -41,6 +39,7 @@ irure
 labore
 laboris
 laborum
+lorem
 magna
 minim
 mollit
