@@ -7,7 +7,6 @@ CSIDriver
 CSINode
 CSIStorageCapacity
 CertificateSigningRequest
-ClusterCIDR
 ClusterRole
 ClusterRoleBinding
 ClusterTrustBundle
@@ -64,6 +63,7 @@ SelfSubjectReview
 SelfSubjectRulesReview
 Service
 ServiceAccount
+ServiceCIDR
 ServiceProxyOptions
 StatefulSet
 StorageClass
@@ -75,4 +75,5 @@ ValidatingAdmissionPolicy
 ValidatingAdmissionPolicyBinding
 ValidatingWebhookConfiguration
 VolumeAttachment
+VolumeAttributesClass
 null

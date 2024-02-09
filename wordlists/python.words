@@ -31,6 +31,7 @@ bytecode
 bytes-like
 callable
 callback
+checker
 class
 collection
 complex
@@ -69,6 +70,7 @@ hash-based
 hashable
 hint
 hook
+immortal
 immutable
 import
 importer
@@ -126,6 +128,7 @@ soft
 spec
 special
 statement
+static
 string
 strong
 text

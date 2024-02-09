@@ -29,6 +29,7 @@ concept,
 core
 dangling
 database
+dereference
 detached
 directory
 dirty
@@ -52,10 +53,12 @@ object
 octopus
 oid
 origin
+orphan
 overlay
 pack
 parent
 pathspec
+peel
 per-worktree
 pickaxe
 plumbing
@@ -77,6 +80,7 @@ resolve
 revision
 rewind
 shallow
+special
 stash
 submodule
 superproject
@@ -88,6 +92,7 @@ tree
 tree-ish
 treeish
 type
+unborn
 unmerged
 unreachable
 upstream
