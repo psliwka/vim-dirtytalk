@@ -48,17 +48,24 @@ Install the plugin using your favorite plugin manager. Ensure that the
 Plug 'psliwka/vim-dirtytalk', { 'do': ':DirtytalkUpdate' }
 ```
 
-Example for [packer.nvim]:
-
-```lua
-use {'psliwka/vim-dirtytalk', run = ':DirtytalkUpdate'}
-```
-
 Then include your freshly-compiled `programming` dictionary in your `spelllang`
 setting. Example:
 
 ```vim
 set spelllang=en,programming
+```
+
+Alternatively you can do both steps via your plugin manager. Example for
+[lazy.nvim]:
+
+```lua
+{
+    "psliwka/vim-dirtytalk",
+    build = ":DirtytalkUpdate",
+    config = function()
+        vim.opt.spelllang = { "en", "programming" }
+    end,
+}
 ```
 
 Usage
@@ -126,4 +133,4 @@ License
 [MIT](LICENSE)
 
 [vim-plug]: https://github.com/junegunn/vim-plug
-[packer.nvim]: https://github.com/wbthomason/packer.nvim
+[lazy.nvim]: https://github.com/folke/lazy.nvim
