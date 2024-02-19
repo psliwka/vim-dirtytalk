@@ -57,6 +57,7 @@ ActiGraph
 Actions
 Activision
 ActivityPub
+Actix
 Acura
 AdBlock
 AdGuard
@@ -143,6 +144,7 @@ Android
 Angular
 AniList
 Animal
+AnkerMake
 Ansible
 Answer
 Ansys
@@ -159,6 +161,7 @@ App
 AppSignal
 AppVeyor
 Appian
+Appium
 Apple
 Apps
 Appsmith
@@ -275,6 +278,7 @@ Bento
 BentoBox
 BentoML
 Betfair
+Better
 Bevy
 Biases
 Big
@@ -330,6 +334,7 @@ Boot
 Boots
 Bootstrap
 BorgBackup
+Boring
 Bosch
 Bose
 Botble
@@ -337,6 +342,7 @@ Bounty
 Bower
 Box
 Boxy
+Braintree
 Brandfolder
 Brave
 Breaker
@@ -363,7 +369,9 @@ Bull
 Bulma
 Bun
 Bundle
+Bungie
 Burger
+Burp
 Burton
 Business
 Buy
@@ -400,6 +408,7 @@ Calc
 Calendar
 Calendly
 Campaign
+Camunda
 Canada
 Canonical
 Canva
@@ -492,6 +501,7 @@ CloudWatch
 Cloudera
 Cloudflare
 Cloudinary
+Cloudron
 Cloudsmith
 Cloudways
 Club
@@ -522,6 +532,7 @@ Codecademy
 CodeceptJS
 Codecov
 Codeforces
+Codefresh
 Codeium
 Codemagic
 Codementor
@@ -552,6 +563,7 @@ Common
 Commons
 Community
 CompTIA
+Company
 Compiler
 Compose
 Composer
@@ -705,6 +717,7 @@ Discogs
 Discord
 Discourse
 Discover
+Display
 Disqus
 Disroot
 Distrokid
@@ -833,6 +846,7 @@ Etsy
 Event
 Eventbrite
 Evernote
+Excalidraw
 Excel
 Exchange
 Exercism
@@ -944,6 +958,7 @@ Forgejo
 Fork
 Form
 Forms
+Formspree
 Formstack
 Fortinet
 Fortran
@@ -964,6 +979,7 @@ Franprix
 Frappe
 Fraunhofer-Gesellschaft
 FreeBSD
+FreeMarker
 FreeNAS
 Freelancer
 Freepik
@@ -1039,6 +1055,7 @@ GoFundMe
 GoLand
 GoToMeeting
 Godot
+Gojek
 GoldenLine
 Goldman
 Goodreads
@@ -1135,6 +1152,7 @@ HelpDesk
 Hepsiemlak
 Heroku
 Hetzner
+Hevy
 Hexlet
 Hexo
 Hi
@@ -1142,6 +1160,7 @@ Hibernate
 Hilton
 Hitachi
 Hive
+HiveMQ
 Home
 HomeAdvisor
 Homebrew
@@ -1324,6 +1343,7 @@ K3s
 KDE
 KFC
 KLM
+KNIME
 KTM
 KX
 Kafka
@@ -1346,6 +1366,7 @@ Kaufland
 Kdenlive
 Kedro
 KeePassXC
+Keenetic
 Keep
 Keil
 Kentico
@@ -1395,6 +1416,7 @@ Kuaishou
 Kubernetes
 Kubuntu
 Kuma
+Kununu
 Kuula
 Kylin
 Kyocera
@@ -1466,6 +1488,7 @@ Linkerd
 Linkfire
 Linksys
 Linktree
+LintCode
 Linux
 LinuxServer
 Lion
@@ -1495,6 +1518,7 @@ Loot
 Lospec
 Lua
 Lubuntu
+Lucid
 Ludwig
 Lufthansa
 Lumberyard
@@ -1624,6 +1648,7 @@ Microsoft
 Microstation
 Mighty
 Mikrotik
+Milanote
 Milvus
 MinIO
 Minds
@@ -1648,6 +1673,7 @@ Mock
 Models
 Modin
 Modrinth
+Mods
 Modules
 Mojang
 Moleculer
@@ -1710,8 +1736,10 @@ NSIS
 NVIDIA
 NXP
 NZXT
+NameMC
 Namebase
 Namecheap
+Namu
 Nano
 National
 Nations
@@ -1720,11 +1748,13 @@ Naver
 Nearby
 Neo4j
 Neovim
+Neptune
 NestJS
 NetApp
 NetBSD
 NetBeans
 NetEase
+Netdata
 Netflix
 Netlify
 Nette
@@ -1742,6 +1772,7 @@ NextUI
 Nextcloud
 Nextdoor
 Nextra
+Nexus
 NgRx
 Nginx
 Niantic
@@ -1898,6 +1929,7 @@ Panasonic
 Pandora
 Pantheon
 Paperless-ngx
+Papers
 Paperspace
 Paramount+
 Paris
@@ -1941,6 +1973,7 @@ Phosphor
 Photo
 Photobucket
 Photocrowd
+Photon
 Photopea
 Photos
 Photoshop
@@ -2006,6 +2039,7 @@ Polymer
 Polywork
 Pond5
 Pop!_OS
+Porkbun
 Porsche
 PortSwigger
 Portainer
@@ -2073,6 +2107,7 @@ PurgeCSS
 Purism
 Pushbullet
 Pusher
+PyCQA
 PyCharm
 PyG
 PyPI
@@ -2088,6 +2123,7 @@ PythonAnywhere
 QEMU
 QIWI
 QMK
+QNAP
 QQ
 Qantas
 Qase
@@ -2232,6 +2268,7 @@ Rockwell
 Rocky
 Roku
 Role
+Roll20
 Rolls-Royce
 Rome
 Romeo
@@ -2256,6 +2293,7 @@ Rundeck
 Runkeeper
 Runrun.it
 Rust
+RustDesk
 RxDB
 Ryanair
 Rye
@@ -2382,6 +2420,7 @@ Shutterstock
 SiFive
 SiYuan
 SideQuest
+Sidekiq
 Siemens
 Signal
 Similarweb
@@ -2543,6 +2582,7 @@ Substrate
 Subtitle
 Subversion
 Subway
+Suite
 Sumo
 Supabase
 Super
@@ -2605,6 +2645,7 @@ Tasmota
 Tata
 Tauri
 TaxBuzz
+Teal
 TeamCity
 TeamSpeak
 TeamViewer
@@ -2731,6 +2772,8 @@ Twitch
 Twitter
 TypeScript
 Typeform
+Typer
+Typst
 Télé-Québec
 U
 UFC
@@ -2754,6 +2797,7 @@ Underscore.js
 Undertale
 Unicode
 Unilever
+Union
 Uniqlo
 United
 Unity
@@ -2905,6 +2949,7 @@ WezTerm
 WhatsApp
 When
 Wii
+Wiki
 Wiki.js
 Wikidata
 Wikimedia
@@ -2920,6 +2965,7 @@ Wireshark
 Wise
 Wish
 Wistia
+With
 Wix
 Wizardry
 Wizz
@@ -2975,6 +3021,7 @@ Yubico
 ZAP
 ZCOOL
 ZDF
+Zaim
 Zalando
 Zalo
 Zapier
@@ -3110,7 +3157,9 @@ pnpm
 pr.co
 pre-commit
 protocols.io
+qbittorrent
 quicktype
+radarr
 remark
 reveal.js
 roadmap.sh
@@ -3122,6 +3171,7 @@ sharp
 smart
 smash.gg
 social
+sonarr
 spaCy
 strongSwan
 styled-components
@@ -3141,6 +3191,7 @@ uBlock
 uTorrent
 vBulletin
 vFairs
+vivo
 wasmCloud
 webcomponents.org
 webtrees
