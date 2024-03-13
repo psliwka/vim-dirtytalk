@@ -50,9 +50,12 @@ PriorityLevelConfiguration
 ReplicaSet
 ReplicationController
 ResourceClaim
+ResourceClaimParameters
 ResourceClaimTemplate
 ResourceClass
+ResourceClassParameters
 ResourceQuota
+ResourceSlice
 Role
 RoleBinding
 RuntimeClass
@@ -68,6 +71,7 @@ ServiceProxyOptions
 StatefulSet
 StorageClass
 StorageVersion
+StorageVersionMigration
 SubjectAccessReview
 TokenRequest
 TokenReview
