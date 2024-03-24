@@ -155,6 +155,7 @@ Anta
 Antena
 AnyDesk
 Anycubic
+Anytype
 Apache
 Aparat
 Apifox
@@ -465,6 +466,7 @@ Chedraui
 Cheerio
 Chef
 Chemex
+Chess.com
 Chevrolet
 Chia
 China
@@ -604,6 +606,7 @@ Copilot
 Coppel
 Cora
 Cordova
+CorelDRAW
 Corona
 Corporation
 Corsair
@@ -630,6 +633,7 @@ Crowdin
 Crowdsource
 Crunchbase
 Crunchyroll
+CryptPad
 Crystal
 Cucumber
 Cultura
@@ -684,10 +688,12 @@ Dataproc
 Dataverse
 DatoCMS
 Datto
+Dazhong
 De'Longhi
 Dear
 Debian
 Decap
+Decentraland
 Deck
 DeepCool
 DeepL
@@ -717,6 +723,7 @@ DeviantArt
 Devpost
 Dgraph
 Dialogflow
+Dianping
 Diaspora
 Digg
 Digi-Key
@@ -1017,6 +1024,7 @@ Fx
 G
 G2
 G2A
+G2G
 GDAL
 GIMP
 GIPHY
@@ -1279,6 +1287,7 @@ Initiative
 Ink
 Inkdrop
 Inkscape
+Inoreader
 Insights
 Insomnia
 Insta360
@@ -1673,6 +1682,7 @@ MicroStrategy
 Microgenetics
 Microsoft
 Microstation
+Migadu
 Mighty
 Mikrotik
 Milanote
@@ -1840,6 +1850,7 @@ Nuke
 NumPy
 Numba
 Nunjucks
+Nushell
 Nutanix
 Nuxt.js
 Nx
@@ -2654,6 +2665,7 @@ TOTVS
 TP-Link
 TUI
 TV
+TV4
 TYPO3
 Tabelog
 Table
@@ -2667,6 +2679,7 @@ Tailwind
 Take-Two
 Talend
 Talenthouse
+Talos
 Tamiya
 Tampermonkey
 Taobao
@@ -2907,6 +2920,7 @@ Visio
 Visual
 Vita
 Vite
+VitePress
 Vitess
 Vitest
 Viva
@@ -3098,6 +3112,7 @@ Zsh
 Zulip
 Zyte
 a
+abuse.ch
 arXiv
 asciinema
 at
@@ -3136,6 +3151,7 @@ elementary
 esbuild
 etcd
 figshare
+fish
 foobar2000
 foodpanda
 for
@@ -3155,6 +3171,7 @@ iCloud
 iFixit
 iFood
 iHeartRadio
+iMessage
 iOS
 iRobot
 iTerm2
@@ -3210,6 +3227,7 @@ scikit-learn
 semantic-release
 shadcn,ui
 sharp
+shell
 smart
 smash.gg
 social
@@ -3223,6 +3241,7 @@ tRPC
 tado°
 teratail
 the
+thirdweb
 tie
 tmux
 to
