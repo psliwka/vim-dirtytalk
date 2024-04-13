@@ -23,3 +23,22 @@ Changing existing word list
 Please never change automatically generated word lists by hand. Instead, adjust
 the respective script in `scripts/` directory, then re-run the script before
 committing your changes and sending a PR.
+
+Word list style guidelines
+--------------------------
+
+* When writing word lists, preferably use Vim's straight word list format (see
+  `:help spell-wordlist-format` for details). So far the plugin has not been
+  tested with other Vim-supported formats (e.g. .dic and .aff).
+* All auto-generated lists must start with a comment indicating which script is
+  used to update them. There is a helper in `scripts/common.sh` to generate
+  such comment at the first line of the file.
+* All manually-edited lists should start with a comment explaining the main
+  theme/topic of the list.
+* Words should be split into topic-specific files. We prefer to have many tiny
+  lists instead of few large ones.
+* Word lists can be split into smaller sections (separated by double newline),
+  although all sections should still relate to the same main topic. If they
+  don't, split them into separate files.
+* Words should be sorted alphabetically within a list. If your word list is
+  divided into multiple sections, sort each section individually.
