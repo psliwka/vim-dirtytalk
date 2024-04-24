@@ -15,24 +15,26 @@ Included word lists
 Currently the plugin comes bundled with following word lists, compiled into one
 big list at installation time:
 
-| List name         | Example words                                 |
-|-------------------|-----------------------------------------------|
-| `acronyms`        | API, JSON, PaaS                               |
-| `algorithms`      | quicksort, subtree, memoization               |
-| `brands`          | GitHub, AdSense, DynamoDB                     |
-| `comments`        | TODO, FIXME, XXX                              |
-| `cpp`             | const, enum, lvalue                           |
-| `docker`          | Dockerfile, cgroups, ENTRYPOINT               |
-| `file-extensions` | .js, .yaml, .lua                              |
-| `git`             | submodule, worktree, rebase                   |
-| `html`            | h1, iframe, fieldset                          |
-| `kubernetes`      | ConfigMap, CSIDriver, HorizontalPodAutoscaler |
-| `lorem-ipsum`     | Lorem, ipsum, dolor                           |
-| `nerd-fonts`      |  ,  , &nbsp;                               | <!-- a non-breaking space is needed to render the last symbol correctly on GitHub -->
-| `prometheus`      | PromQL, Alertmanager, Pushgateway             |
-| `python`          | docstring, iterable, awaitable                |
-| `unix`            | SIGTERM, chroot, grep                         |
-| `versions`        | v1, v2, v3                                    |
+| List name         | Example words                                  |
+|-------------------|------------------------------------------------|
+| `acronyms`        | API, JSON, PaaS                                |
+| `algorithms`      | quicksort, subtree, memoization                |
+| `brands`          | GitHub, AdSense, DynamoDB                      |
+| `comments`        | TODO, FIXME, XXX                               |
+| `cpp`             | const, enum, lvalue                            |
+| `docker`          | Dockerfile, cgroups, ENTRYPOINT                |
+| `file-extensions` | .js, .yaml, .lua                               |
+| `git`             | submodule, worktree, rebase                    |
+| `html`            | h1, iframe, fieldset                           |
+| `jargon`          | sanitizers, indistinguishability, microservice |
+| `kubernetes`      | ConfigMap, CSIDriver, HorizontalPodAutoscaler  |
+| `lorem-ipsum`     | Lorem, ipsum, dolor                            |
+| `nerd-fonts`      |  ,  , &nbsp;                                | <!-- a non-breaking space is needed to render the last symbol correctly on GitHub -->
+| `names`           | WannaCry, PuTTY, Merkle                        |
+| `prometheus`      | PromQL, Alertmanager, Pushgateway              |
+| `python`          | docstring, iterable, awaitable                 |
+| `unix`            | SIGTERM, chroot, grep                          |
+| `versions`        | v1, v2, v3                                     |
 
 You can disable lists you don't want to use. See the _customization_ section
 for details.

@@ -2,9 +2,56 @@
 source "$(dirname $0)/common.sh"
 
 emit_header "Common IT acronyms and abbreviations"
-curl -s "https://en.wikipedia.org/wiki/List_of_computing_and_IT_abbreviations" \
-  | egrep -o '<li><a.+title.+>[a-zA-Z0-9\.]+<' \
-  | grep -v '(page does not exist)' \
-  | egrep -o '>[a-zA-Z0-9\.]+<' \
-  | tr -d '<>' \
-  | emit_words
+{
+  curl -s "https://en.wikipedia.org/wiki/List_of_computing_and_IT_abbreviations" \
+    | egrep -o '<li><a.+title.+>[a-zA-Z0-9\.]+<' \
+    | grep -v '(page does not exist)' \
+    | egrep -o '>[a-zA-Z0-9\.]+<' \
+    | tr -d '<>'
+  cat <<heretag
+3DES
+APIs
+APK
+AXFR
+BSSID
+CAs
+CCMP
+CSPRNG
+CVSS
+CWE
+DMARC
+DNSSEC
+DSGVO
+ECB
+EDNS
+GC
+GDPR
+GNSS
+HKLM
+HMAC
+HSTS
+HTA
+IAM
+IBAN
+IBANs
+IDN
+JWT
+KDF
+LTS
+MD5
+MITM
+MTAs
+OCSP
+OSINT
+PEM
+R2
+RC4
+RCE
+SNI
+SSRF
+TKIP
+TOTP
+U2F
+XHR
+heretag
+} | emit_words
