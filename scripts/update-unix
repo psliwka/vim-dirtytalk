@@ -17,4 +17,12 @@ emit_header "Common UNIX commands"
   | cut -d '>' -f3 \
   | cut -d '<' -f1
   busybox --list
+  cat <<heretag
+cron
+gpg
+podman
+rsync
+sudo
+tcpdump
+heretag
 } | emit_words

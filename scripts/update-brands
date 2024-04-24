@@ -2,8 +2,66 @@
 source "$(dirname $0)/common.sh"
 
 emit_header "Popular (mostly IT-related) brands"
-curl -s "https://raw.githubusercontent.com/simple-icons/simple-icons/master/_data/simple-icons.json" \
-  | jq -r '.icons | map(.title)[]' \
-  | tr ' ' '\n' \
-  | grep '[a-zA-Z]' \
-  | emit_words
+{
+  curl -s "https://raw.githubusercontent.com/simple-icons/simple-icons/master/_data/simple-icons.json" \
+    | jq -r '.icons | map(.title)[]' \
+    | tr ' ' '\n' \
+    | grep '[a-zA-Z]'
+  cat <<heretag
+Acronis
+AMD64
+AngularJS
+Artifactory
+BitLocker
+Chromebook
+CloudFormation
+CloudTrail
+Coverity
+Cppcheck
+Defender
+DigiCert
+Duqu
+Entra ID
+FortiGate
+FOSSGIS
+Foxit
+GitLab's
+GlobalSign
+Hoek
+iPhones
+jsoup
+Karaf
+Log4j
+Lync
+Mailchimp
+MailHog
+Nessus
+Netgear
+Nvidia
+Office
+OkHttp
+OneDrive's
+OpenPhish
+OSTIF
+PKZIP
+PowerDNS
+PrivateLink
+Protection
+PRTG
+PSFTPd
+reCAPTCHA
+reCAPTCHA's
+Semgrep
+SendGrid
+Sophos
+Splashtop
+Threema's
+TinyMCE
+TopAccess
+Vertica
+Wazuh
+YubiKey
+YubiKey's
+YubiKeys
+heretag
+} | emit_words
