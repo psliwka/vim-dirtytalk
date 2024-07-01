@@ -12,6 +12,7 @@ MRO
 PEP
 Python
 Pythonic
+REPL
 Zen
 __future__
 __slots__
@@ -60,6 +61,7 @@ file-like
 filesystem
 finder
 floor
+free
 function
 garbage
 generator
@@ -105,6 +107,7 @@ newlines
 number
 object
 of
+optimized
 order
 package
 parameter
@@ -132,6 +135,7 @@ static
 string
 strong
 text
+threading
 triple-quoted
 tuple
 type
