@@ -80,7 +80,6 @@ resolve
 revision
 rewind
 shallow
-special
 stash
 submodule
 superproject

@@ -35,6 +35,7 @@ Benford's
 Bk
 Bloom
 Boas
+Boolean
 Bounding
 Boyer–Moore
 Boyer–Moore–Horspool
@@ -247,6 +248,7 @@ amortized
 analysis
 ancestor
 and
+and-or
 annealing
 antichain
 antisymmetric
@@ -297,7 +299,6 @@ blocking
 blossom
 bogosort
 boogol
-boolean
 bottleneck
 bottom-up
 bound

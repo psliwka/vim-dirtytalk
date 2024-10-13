@@ -1,6 +1,7 @@
 # This file is generated automatically by `scripts/update-acronyms`. Please do not edit it directly.
 
 # Common IT acronyms and abbreviations
+1
 100BVG
 10B2
 10B5
@@ -59,6 +60,7 @@ AE
 AES
 AF
 AFP
+AGI
 AGP
 AH
 AI
@@ -77,6 +79,7 @@ ANN
 ANSI
 ANT
 AOP
+AOT
 APCI
 API
 APIC
@@ -217,7 +220,6 @@ CMOS
 CMS
 CN
 CNC
-CNG
 CNR
 COBOL
 COM
@@ -703,6 +705,7 @@ MF
 MFA
 MFC
 MFM
+MFT
 MGCP
 MHz
 MIB
@@ -799,6 +802,7 @@ NPL
 NPTL
 NPU
 NS
+NSIS
 NSPR
 NSS
 NT
@@ -914,6 +918,7 @@ PVR
 PXE
 PXI
 PaaS
+Pixel
 PnP
 PoE
 PoS
@@ -1197,6 +1202,7 @@ VPU
 VR
 VRAM
 VRML
+VSAM
 VSAT
 VT
 VTAM

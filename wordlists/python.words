@@ -12,12 +12,14 @@ MRO
 PEP
 Python
 Pythonic
+REPL
 Zen
 __future__
 __slots__
 abstract
 alias
 and
+annotate
 annotation
 argument
 asynchronous
@@ -33,6 +35,7 @@ callable
 callback
 checker
 class
+closure
 collection
 complex
 comprehension
@@ -40,6 +43,7 @@ context
 contiguous
 coroutine
 count
+current
 decorator
 deprecated
 descriptor
@@ -52,6 +56,7 @@ encoding
 entry
 environment
 error
+evaluate
 expression
 extension
 f-string
@@ -60,6 +65,7 @@ file-like
 filesystem
 finder
 floor
+free
 function
 garbage
 generator
@@ -89,6 +95,7 @@ locale
 lock
 machine
 magic
+management
 manager
 mapping
 meta
@@ -105,6 +112,7 @@ newlines
 number
 object
 of
+optimized
 order
 package
 parameter
@@ -112,6 +120,7 @@ path
 path-like
 portion
 positional
+protocol
 provisional
 pyc
 qualified
@@ -132,6 +141,7 @@ static
 string
 strong
 text
+threading
 triple-quoted
 tuple
 type
