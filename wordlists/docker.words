@@ -45,7 +45,6 @@ organization
 organization name
 overlay network driver
 overlay storage driver
-parent image
 persistent storage
 registry
 repository
