@@ -80,7 +80,6 @@ resolve
 revision
 rewind
 shallow
-special
 stash
 submodule
 superproject
@@ -88,6 +87,7 @@ symref
 system
 tag
 topic
+trailer
 tree
 tree-ish
 treeish

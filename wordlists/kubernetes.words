@@ -17,6 +17,7 @@ CronJob
 CustomResourceDefinition
 DaemonSet
 Deployment
+DeviceClass
 EndpointSlice
 Endpoints
 Event
@@ -28,8 +29,11 @@ Ingress
 IngressClass
 Job
 Lease
+LeaseCandidate
 LimitRange
 LocalSubjectAccessReview
+MutatingAdmissionPolicy
+MutatingAdmissionPolicyBinding
 MutatingWebhookConfiguration
 Namespace
 NetworkPolicy
@@ -43,17 +47,13 @@ PodDisruptionBudget
 PodExecOptions
 PodPortForwardOptions
 PodProxyOptions
-PodSchedulingContext
 PodTemplate
 PriorityClass
 PriorityLevelConfiguration
 ReplicaSet
 ReplicationController
 ResourceClaim
-ResourceClaimParameters
 ResourceClaimTemplate
-ResourceClass
-ResourceClassParameters
 ResourceQuota
 ResourceSlice
 Role
