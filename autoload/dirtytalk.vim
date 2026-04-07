@@ -10,7 +10,11 @@ function! dirtytalk#update()
   endfor
   let l:wordlist_output_file = tempname()
   call writefile(l:wordlist_full, l:wordlist_output_file)
-  let l:spell_dir = spellfile#WritableSpellDir().'/'
+  if has("nvim-0.12")
+    let l:spell_dir = stdpath('data').'/site/spell'
+  else
+    let l:spell_dir = spellfile#WritableSpellDir().'/'
+  endif
   call mkdir(l:spell_dir, 'p')
   execute 'mkspell! '.l:spell_dir.'programming'.' '.l:wordlist_output_file
 endfunction
