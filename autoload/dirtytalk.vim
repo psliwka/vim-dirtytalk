@@ -11,7 +11,7 @@ function! dirtytalk#update()
   let l:wordlist_output_file = tempname()
   call writefile(l:wordlist_full, l:wordlist_output_file)
   if has("nvim-0.12")
-    let l:spell_dir = stdpath('data').'/site/spell'
+    let l:spell_dir = stdpath('data').'/site/spell/'
   else
     let l:spell_dir = spellfile#WritableSpellDir().'/'
   endif
